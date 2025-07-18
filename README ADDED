@@ -1,0 +1,20 @@
+# 🔊 Socket.io Chat Application
+
+A real-time chat app using Socket.io, Express, and React.
+
+## 🚀 Features
+
+- ✅ Realtime messaging
+- ✅ Typing indicator
+- ✅ Private messages
+- ✅ Online user list
+- ✅ Message timestamps
+- ✅ Persistent history (last 100 messages)
+
+## 🛠 Setup
+
+### Server
+```bash
+cd server
+npm install
+node server.js
